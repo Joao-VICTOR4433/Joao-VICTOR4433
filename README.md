@@ -8,37 +8,49 @@ Atualmente, estou me aprofundando em **Kotlin, Django e Angular**, além de estu
 
 Estou em busca de oportunidades que me permitam crescer, aprender e aplicar meus conhecimentos com propósito. Tenho muita vontade de evoluir, de contribuir com projetos reais e de construir uma trajetória profissional baseada em dedicação, curiosidade e paixão pela tecnologia.
 
-<p align="left">
-    <a href="https://github.com/Joao-VICTOR4433?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Joao-VICTOR4433?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Joao-VICTOR4433?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Joao-VICTOR4433?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/joao-victor-nogueira-alves-a17308351/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/nGNAqSY57CwAAAAM/asta-black-clover.gif" alt="Asta Black Clover" width="400"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias  
 
-| Logo | Tecnologia |
-|------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> | **Java** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/> | **Python** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/> | **SQL** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+</p>
+
+---
+
+### 📊 Estatísticas  
+
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Joao-VICTOR4433&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VICTOR4433&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo  
+
+<p align="center">
+  <a href="https://github.com/Joao-VICTOR4433">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joao-victor-nogueira-alves-a17308351/">
+    <img src="https://img.shields.io/badge/Linke
