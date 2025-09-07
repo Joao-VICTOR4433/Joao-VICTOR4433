@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação (UFPB)`**
 
-Sou João Victor, tenho 20 anos e sou estudante de Sistemas de Informação na **Universidade Federal da Paraíba (UFPB)**, atualmente no terceiro período. Desde cedo me encantei pelo mundo da tecnologia, não apenas pelas ferramentas que ele oferece, mas pelo seu potencial de transformar realidades e conectar pessoas. Escolhi essa área porque acredito no poder da inovação para melhorar a vida das pessoas e quero fazer parte dessa mudança.  
+Sou João Victor, tenho 21 anos e sou estudante de Sistemas de Informação na **Universidade Federal da Paraíba (UFPB)**, atualmente no terceiro período. Desde cedo me encantei pelo mundo da tecnologia, não apenas pelas ferramentas que ele oferece, mas pelo seu potencial de transformar realidades e conectar pessoas. Escolhi essa área porque acredito no poder da inovação para melhorar a vida das pessoas e quero fazer parte dessa mudança.  
 
 Atualmente, estou me aprofundando em **Kotlin, Django e Angular**, além de estudar **Análise de Dados e Machine Learning**, áreas que considero essenciais para o futuro da tecnologia e que me motivam a sempre buscar novos desafios e aprendizados.  
 
