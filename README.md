@@ -1,56 +1,81 @@
-# 👨🏻‍💻 João Victor
+# 👨🏻‍💻 João Victor Nogueira Alves
 
-**`Estudante de Sistemas de Informação (UFPB)`**
+**Estudante de Sistemas de Informação | Desenvolvedor Backend em formação**
 
-Sou João Victor, tenho 21 anos e sou estudante de Sistemas de Informação na **Universidade Federal da Paraíba (UFPB)**, atualmente no terceiro período. Desde cedo me encantei pelo mundo da tecnologia, não apenas pelas ferramentas que ele oferece, mas pelo seu potencial de transformar realidades e conectar pessoas. Escolhi essa área porque acredito no poder da inovação para melhorar a vida das pessoas e quero fazer parte dessa mudança.  
+Sou João Victor, tenho 21 anos e sou estudante de **Sistemas de Informação na Universidade Federal da Paraíba (UFPB)**. Tenho grande interesse em desenvolvimento de software e venho direcionando meus estudos para **backend**, com foco em **Golang e Python**, além de bases sólidas em **desenvolvimento web**.
 
-Atualmente, estou me aprofundando em **Kotlin, Django e Angular**, além de estudar **Análise de Dados e Machine Learning**, áreas que considero essenciais para o futuro da tecnologia e que me motivam a sempre buscar novos desafios e aprendizados.  
+Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais, otimizar processos e gerar impacto positivo. Busco constantemente evoluir tecnicamente, aprender boas práticas e participar de projetos que me desafiem e contribuam para meu crescimento profissional.
 
-Estou em busca de oportunidades que me permitam crescer, aprender e aplicar meus conhecimentos com propósito. Tenho muita vontade de evoluir, de contribuir com projetos reais e de construir uma trajetória profissional baseada em dedicação, curiosidade e paixão pela tecnologia.
+Atualmente, estou focado em:
+- Desenvolvimento backend
+- Estruturas de dados e lógica de programação
+- Versionamento de código com Git
+- Fundamentos de desenvolvimento web
+
+Estou em busca de **oportunidades de estágio ou júnior**, onde eu possa aprender, contribuir e crescer junto com o time.
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/nGNAqSY57CwAAAAM/asta-black-clover.gif" alt="Asta Black Clover" width="400"/>
+  <img src="https://media.tenor.com/nGNAqSY57CwAAAAM/asta-black-clover.gif" 
+       alt="Asta Black Clover" 
+       width="350"/>
 </p>
 
 ---
 
-### 🚀 Linguagens e Tecnologias  
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+       title="Golang" alt="Golang" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+       title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </p>
 
 ---
 
-### 📊 Estatísticas  
+## 📌 Áreas de Interesse
+- Desenvolvimento Backend
+- APIs REST
+- Golang e Python
+- Lógica de Programação
+- Estruturas de Dados
+- Desenvolvimento Web
+- Boas práticas de código
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Joao-VICTOR4433&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VICTOR4433&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VICTOR4433&theme=tokyonight&layout=compact&langs_count=6" 
   />
 </p>
 
 ---
 
-### 🌐 Conecte-se comigo  
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://github.com/Joao-VICTOR4433">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joao-victor-nogueira-alves-a17308351/">
-    <img src="https://img.shields.io/badge/Linke
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
