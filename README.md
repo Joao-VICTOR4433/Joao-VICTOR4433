@@ -1,7 +1,7 @@
 # 👨🏻‍💻 João Victor Nogueira Alves
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+stack+Developer+in+Formation;Estudante+de+Sistemas+de+Informação;Golang+Developer;Python+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+stack+Developer+in+Formation;Estudante+de+Sistemas(UFPB)+de+Informação;Golang+Developer;Python+Developer"/>
 </p>
 
 ---
