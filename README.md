@@ -1,19 +1,20 @@
 # 👨🏻‍💻 João Victor Nogueira Alves
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Formation;Estudante+de+Sistemas+de+Informação;Golang+%7C+Python+Developer;Sempre+aprendendo+novas+tecnologias"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=750&lines=Backend+Developer+in+Formation;Estudante+de+Sistemas+de+Informação;Golang+Developer;Python+Developer;Sempre+evoluindo+na+tecnologia"/>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** na **UFPB**
-💻 Focado em desenvolvimento **Backend** com **Golang** e **Python**
-📚 Estudando constantemente **estruturas de dados**, **lógica de programação** e **boas práticas de desenvolvimento**
-🌐 Construindo experiência com **desenvolvimento web** e versionamento com **Git/GitHub**
+🎓 Estudante de **Sistemas de Informação** na **Universidade Federal da Paraíba (UFPB)**
+💻 Desenvolvedor em formação com foco em **Backend**
+⚡ Atualmente estudando **Golang**, **Python** e desenvolvimento de APIs
+📚 Aprimorando conhecimentos em **estruturas de dados**, **lógica de programação** e **boas práticas de software**
+🌐 Construindo experiência com **HTML, CSS, Git e GitHub**
 
-Tenho interesse em criar soluções que ajudem pessoas e empresas através da tecnologia, buscando sempre evoluir tecnicamente e participar de projetos que gerem impacto real.
+Sou apaixonado por tecnologia e por desenvolver soluções que possam gerar impacto real, automatizar processos e resolver problemas do cotidiano através da programação.
 
 ---
 
@@ -23,10 +24,11 @@ Tenho interesse em criar soluções que ajudem pessoas e empresas através da te
 ✔ Backend Development
 ✔ Golang
 ✔ Python
+✔ APIs REST
 ✔ Estruturas de Dados
-✔ APIs e Integrações
-✔ Git e GitHub
+✔ Git & GitHub
 ✔ HTML & CSS
+✔ Banco de Dados SQL
 ```
 
 ---
@@ -56,9 +58,35 @@ Tenho interesse em criar soluções que ajudem pessoas e empresas através da te
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-VICTOR4433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Joao-VICTOR4433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VICTOR4433&layout=compact&theme=tokyonight"/>
+<img height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VICTOR4433&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Métricas de Desenvolvimento
+
+<p align="center">
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joao-VICTOR4433&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-VICTOR4433&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joao-VICTOR4433&theme=tokyonight&utcOffset=-3"/>
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-VICTOR4433&theme=tokyonight"/>
 
 </p>
 
@@ -68,6 +96,22 @@ Tenho interesse em criar soluções que ajudem pessoas e empresas através da te
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Joao-VICTOR4433&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Joao-VICTOR4433&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
